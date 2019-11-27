@@ -1,0 +1,111 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harshit Sethi on Harshit Sethi</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Harshit Sethi on Harshit Sethi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://example.com/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>&lt;script src=&#34;https://www.amcharts.com/lib/3/ammap.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.amcharts.com/lib/3/maps/js/worldHigh.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.amcharts.com/lib/3/themes/dark.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+&lt;div id=&#34;mapdiv&#34; style=&#34;width: 1000px; height: 450px;&#34;&gt;&lt;/div&gt;
+&lt;div style=&#34;width: 1000px; font-size: 70%; padding: 5px 0; text-align: center; background-color: #535364; margin-top: 1px; color: #B4B4B7;&#34;&gt;&lt;a href=&#34;https://www.amcharts.com/visited_countries/&#34; style=&#34;color: #B4B4B7;&#34;&gt;Create your own visited countries map&lt;/a&gt; or check out the &lt;a href=&#34;https://www.amcharts.com/&#34; style=&#34;color: #B4B4B7;&#34;&gt;JavaScript Charts&lt;/a&gt;.&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+var map = AmCharts.makeChart(&#34;mapdiv&#34;,{
+type: &#34;map&#34;,
+theme: &#34;dark&#34;,
+projection: &#34;mercator&#34;,
+panEventsEnabled : true,
+backgroundColor : &#34;#535364&#34;,
+backgroundAlpha : 1,
+zoomControl: {
+zoomControlEnabled : true
+},
+dataProvider : {
+map : &#34;worldHigh&#34;,
+getAreasFromMap : true,
+areas :
+[
+	{
+		&#34;id&#34;: &#34;DE&#34;,
+		&#34;showAsSelected&#34;: true
+	},
+	{
+		&#34;id&#34;: &#34;GR&#34;,
+		&#34;showAsSelected&#34;: true
+	},
+	{
+		&#34;id&#34;: &#34;NL&#34;,
+		&#34;showAsSelected&#34;: true
+	},
+	{
+		&#34;id&#34;: &#34;TR&#34;,
+		&#34;showAsSelected&#34;: true
+	},
+	{
+		&#34;id&#34;: &#34;GB&#34;,
+		&#34;showAsSelected&#34;: true
+	},
+	{
+		&#34;id&#34;: &#34;MU&#34;,
+		&#34;showAsSelected&#34;: true
+	},
+	{
+		&#34;id&#34;: &#34;CN&#34;,
+		&#34;showAsSelected&#34;: true
+	},
+	{
+		&#34;id&#34;: &#34;IN&#34;,
+		&#34;showAsSelected&#34;: true
+	},
+	{
+		&#34;id&#34;: &#34;ID&#34;,
+		&#34;showAsSelected&#34;: true
+	},
+	{
+		&#34;id&#34;: &#34;MY&#34;,
+		&#34;showAsSelected&#34;: true
+	},
+	{
+		&#34;id&#34;: &#34;SG&#34;,
+		&#34;showAsSelected&#34;: true
+	},
+	{
+		&#34;id&#34;: &#34;TH&#34;,
+		&#34;showAsSelected&#34;: true
+	},
+	{
+		&#34;id&#34;: &#34;AE&#34;,
+		&#34;showAsSelected&#34;: true
+	},
+	{
+		&#34;id&#34;: &#34;AU&#34;,
+		&#34;showAsSelected&#34;: true
+	}
+]
+},
+areasSettings : {
+autoZoom : true,
+color : &#34;#B4B4B7&#34;,
+colorSolid : &#34;#84ADE9&#34;,
+selectedColor : &#34;#84ADE9&#34;,
+outlineColor : &#34;#666666&#34;,
+rollOverColor : &#34;#9EC2F7&#34;,
+rollOverOutlineColor : &#34;#000000&#34;
+}
+});
+&lt;/script&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
