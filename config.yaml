@@ -1,0 +1,39 @@
+baseURL: https://harshitsethi.com
+
+
+languageCode: en-us
+title: "Harshit Sethi"
+theme: "toha"
+
+# Manage languages
+# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
+languages:
+  en:
+    languageName: English
+    weight: 1
+
+# Control TOC depth
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+# Enable global emoji support
+enableEmoji: true
+
+# Site parameters
+params:
+  # GitHub repo URL of your site
+  gitRepo: https://github.com/hsethi2709/hsethi2709.github.io
+  logo:
+    main: images/hs.png
+    inverted: images/hs.png
+    favicon: images/hs.png
+  # specify whether you want to write some blog posts or not
+  enableBlogPost: false
+  newsletter:
+    enable: false
+  # specify whether you want to show Table of Contents in reading page
+  enableTOC: true
+  background: "images/background.jpg"

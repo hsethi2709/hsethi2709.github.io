@@ -1,0 +1,17 @@
+# some information about you
+name: "Harshit Sethi"
+nickname: "Harshit"
+image: "/images/harshit.jpg"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+
+# give your contact information. they will be used in the footer
+contactInfo:
+  email: "hsethi2709@gmail.com"
+  phone: "+61420701728"
+
+# a summary of what you do
+summary:
+- I am a Machine Learning Engineer
+- I enjoy everything tech
