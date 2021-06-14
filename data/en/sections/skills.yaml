@@ -11,10 +11,16 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+
 - name: Natural Language Processing
   logo: "/images/sections/skills/nlp.png"
-  summary: "Designing and developing natural language processing systems according to requirements. Defining appropriate datasets for language learning. Using effective text representations to transform natural language into useful features. Training the developed model and running evaluation experiments. Constantly keeping up to date within the field of machine learning."
+  summary: "Designing and developing natural language processing systems according to requirements. Defining appropriate datasets for language learning. Using effective text representations to transform natural language into useful features. Training the developed model and running evaluation experiments. Constantly keeping up to date within the field of machine learning. **Tools:** Flair, Spacy, Sentence-Transformers, AllenNLP, Scikit-Learn, Tensorflow, Pandas, Numpy"
   url: "https://en.wikipedia.org/wiki/Natural_language_processing"
+
+
+- name: MLOps
+  logo: /images/sections/skills/mlops-og.png
+  summary: "Experience in all stages of Machine Learning Operations including Evaluation, Hyperparameter Tuning, Deployment, Productionizing, Monitoring/Maintenance, DevOps, CI/CD"
 
 - name: Python
   logo: "/images/sections/skills/python.png"
@@ -37,3 +43,4 @@ skills:
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+
