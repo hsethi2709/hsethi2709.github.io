@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Machine Learning Engineer
+designation: Software Engineer - Machine Learning
 # your company information
 company:
-  name: Cognitive View
-  url: "https://www.cognitiveview.com"
+  name: Zendesk
+  url: "https://www.zendesk.com"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/Harshit_Sethi.pdf"

@@ -11,6 +11,14 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Zendesk
+    url: "https://www.zendesk.com"
+    location: Melbourne, Australia
+    overview: Zendesk started the customer experience revolution in 2007 by enabling any business around the world to take their customer service online. Today, Zendesk is the champion of great service everywhere for everyone, and powers billions of conversations, connecting more than 100,000 brands with hundreds of millions of customers over telephony, chat, email, messaging, social channels, communities, review sites and help centers. Zendesk products are built with love to be loved. The company was conceived in Copenhagen, Denmark, built and grown in California, taken public in New York City, and today employs more than 4,000 people across the world.
+  positions:
+  - designation: Software Engineer - Machine Learning
+    start: Aug 2021
+- company:
     name: Cognitive View
     url: "https://www.cognitiveview.com"
     location: Melbourne, Australia
@@ -19,6 +27,7 @@ experiences:
   positions:
   - designation: Machine Learning Engineer
     start: Dec 2019
+    end: Aug 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
