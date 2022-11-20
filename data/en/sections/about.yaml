@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer - Machine Learning
+designation: Machine Learning Engineer
 # your company information
 company:
   name: Zendesk
