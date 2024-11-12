@@ -11,6 +11,14 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Block / CashApp
+    url: "https://block.xyz/"
+    location: Melbourne, Australia
+    overview: Block is a financial technology company that provides a suite of products that enable users to buy, sell, store, and spend digital assets on a seamless global network. Cash App wants to redefine the world's relationship with money to make it more relatable, instantly available, and universally accessible.
+  positions:
+  - designation: Machine Learning Engineer
+    start: Jun 2024
+- company:
     name: Zendesk
     url: "https://www.zendesk.com"
     location: Melbourne, Australia
@@ -18,6 +26,14 @@ experiences:
   positions:
   - designation: Machine Learning Engineer
     start: Aug 2021
+    end: Jun 2024
+    responsibilities:
+    - Collaborated with ML teams to build and improve machine-learning based solutions in customerservice.
+    - Built training pipelines from scratch and optimised them to bring down training time from 7 days to 17 hours.
+    - Developed training and evaluation framework for training language models with 200M text data, leading to a 15% improvement over open-source models for internal ML services.  
+    - Designing, developing, and maintaining production-grade ML services using Python and peer-reviewing codebases.
+    - Extending and improving existing Machine learning libraries and systems.
+    - Collaborated with cross-functional teams to define, design, and ship new features.
 - company:
     name: Cognitive View
     url: "https://www.cognitiveview.com"
